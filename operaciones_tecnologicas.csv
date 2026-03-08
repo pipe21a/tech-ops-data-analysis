@@ -1,0 +1,201 @@
+Ticket_ID,Fecha_Creacion,Categoria,Prioridad,Tiempo_Resolucion_Min,Origen,Costo_Operativo
+TK-1000,2026-01-07,Consulta,Media,89,WebForm,53.4
+TK-1001,2026-01-11,Feature Request,Alta,214,API,160.5
+TK-1002,2026-01-09,Configuración,Alta,61,API,45.75
+TK-1003,2026-01-31,Configuración,Baja,80,WebForm,40.0
+TK-1004,2026-02-03,Consulta,Alta,71,WebForm,53.25
+TK-1005,2026-01-25,Feature Request,Alta,402,WebForm,301.5
+TK-1006,2026-02-24,Configuración,Alta,33,API,24.75
+TK-1007,2026-01-31,Configuración,Crítica,42,Email,42.0
+TK-1008,2026-01-27,Feature Request,Crítica,121,WebForm,121.0
+TK-1009,2026-01-08,Feature Request,Media,235,WebForm,141.0
+TK-1010,2026-02-13,Feature Request,Alta,264,API,198.0
+TK-1011,2026-01-20,Feature Request,Crítica,315,Email,315.0
+TK-1012,2026-01-31,Configuración,Baja,20,Email,10.0
+TK-1013,2026-03-02,Consulta,Crítica,68,WebForm,68.0
+TK-1014,2026-01-22,Feature Request,Baja,302,API,151.0
+TK-1015,2026-02-03,Configuración,Baja,90,Email,45.0
+TK-1016,2026-02-06,Feature Request,Crítica,121,Email,121.0
+TK-1017,2026-01-03,Consulta,Media,35,Email,21.0
+TK-1018,2026-01-05,Feature Request,Crítica,129,Email,129.0
+TK-1019,2026-01-14,Consulta,Crítica,11,WebForm,11.0
+TK-1020,2026-01-14,Bug,Media,313,WebForm,187.8
+TK-1021,2026-01-27,Consulta,Baja,21,Email,10.5
+TK-1022,2026-01-26,Feature Request,Alta,278,API,208.5
+TK-1023,2026-02-13,Consulta,Crítica,46,WebForm,46.0
+TK-1024,2026-02-17,Bug,Crítica,413,WebForm,413.0
+TK-1025,2026-02-06,Bug,Alta,334,WebForm,250.5
+TK-1026,2026-03-02,Bug,Alta,179,Email,134.25
+TK-1027,2026-01-18,Bug,Media,73,WebForm,43.8
+TK-1028,2026-02-15,Feature Request,Crítica,296,Email,296.0
+TK-1029,2026-02-24,Consulta,Baja,46,Email,23.0
+TK-1030,2026-02-25,Bug,Crítica,63,WebForm,63.0
+TK-1031,2026-01-28,Consulta,Media,35,WebForm,21.0
+TK-1032,2026-01-08,Feature Request,Alta,70,API,52.5
+TK-1033,2026-01-16,Consulta,Alta,80,Email,60.0
+TK-1034,2026-02-20,Bug,Crítica,401,Email,401.0
+TK-1035,2026-02-26,Configuración,Alta,33,API,24.75
+TK-1036,2026-02-23,Feature Request,Crítica,372,Email,372.0
+TK-1037,2026-03-01,Feature Request,Crítica,319,WebForm,319.0
+TK-1038,2026-01-06,Bug,Baja,465,API,232.5
+TK-1039,2026-01-31,Feature Request,Alta,178,API,133.5
+TK-1040,2026-01-04,Configuración,Crítica,11,WebForm,11.0
+TK-1041,2026-02-14,Feature Request,Crítica,265,WebForm,265.0
+TK-1042,2026-01-26,Bug,Crítica,381,WebForm,381.0
+TK-1043,2026-02-26,Consulta,Crítica,20,Email,20.0
+TK-1044,2026-01-15,Bug,Media,406,Email,243.6
+TK-1045,2026-01-31,Bug,Media,214,Email,128.4
+TK-1046,2026-02-14,Configuración,Baja,36,Email,18.0
+TK-1047,2026-01-16,Configuración,Alta,38,WebForm,28.5
+TK-1048,2026-01-17,Bug,Baja,219,API,109.5
+TK-1049,2026-02-19,Feature Request,Crítica,349,API,349.0
+TK-1050,2026-01-11,Consulta,Alta,41,WebForm,30.75
+TK-1051,2026-02-09,Bug,Media,453,API,271.8
+TK-1052,2026-02-03,Configuración,Alta,78,WebForm,58.5
+TK-1053,2026-02-13,Consulta,Crítica,22,Email,22.0
+TK-1054,2026-01-17,Feature Request,Alta,101,API,75.75
+TK-1055,2026-01-14,Feature Request,Baja,173,WebForm,86.5
+TK-1056,2026-02-16,Consulta,Alta,77,WebForm,57.75
+TK-1057,2026-02-15,Configuración,Media,86,API,51.6
+TK-1058,2026-02-19,Bug,Alta,116,WebForm,87.0
+TK-1059,2026-02-26,Configuración,Crítica,13,WebForm,13.0
+TK-1060,2026-01-13,Bug,Baja,186,Email,93.0
+TK-1061,2026-02-24,Bug,Baja,462,API,231.0
+TK-1062,2026-02-17,Consulta,Crítica,89,API,89.0
+TK-1063,2026-02-07,Feature Request,Baja,381,API,190.5
+TK-1064,2026-01-11,Feature Request,Baja,178,WebForm,89.0
+TK-1065,2026-02-05,Bug,Baja,330,Email,165.0
+TK-1066,2026-02-26,Feature Request,Baja,218,API,109.0
+TK-1067,2026-01-21,Bug,Media,156,API,93.6
+TK-1068,2026-02-18,Feature Request,Media,275,Email,165.0
+TK-1069,2026-01-21,Configuración,Media,31,API,18.6
+TK-1070,2026-01-19,Configuración,Alta,16,API,12.0
+TK-1071,2026-01-17,Consulta,Media,87,API,52.2
+TK-1072,2026-01-04,Consulta,Baja,21,API,10.5
+TK-1073,2026-01-25,Bug,Alta,415,Email,311.25
+TK-1074,2026-02-07,Consulta,Media,44,API,26.4
+TK-1075,2026-01-26,Feature Request,Media,291,Email,174.6
+TK-1076,2026-02-02,Feature Request,Alta,171,API,128.25
+TK-1077,2026-02-27,Feature Request,Alta,92,WebForm,69.0
+TK-1078,2026-02-02,Consulta,Crítica,49,Email,49.0
+TK-1079,2026-01-20,Bug,Crítica,134,WebForm,134.0
+TK-1080,2026-02-04,Consulta,Baja,64,API,32.0
+TK-1081,2026-01-10,Bug,Alta,323,Email,242.25
+TK-1082,2026-01-16,Configuración,Baja,30,WebForm,15.0
+TK-1083,2026-02-17,Configuración,Crítica,11,API,11.0
+TK-1084,2026-01-29,Configuración,Alta,72,WebForm,54.0
+TK-1085,2026-01-09,Consulta,Crítica,63,API,63.0
+TK-1086,2026-01-19,Feature Request,Crítica,320,Email,320.0
+TK-1087,2026-01-23,Bug,Alta,380,WebForm,285.0
+TK-1088,2026-01-18,Feature Request,Crítica,391,Email,391.0
+TK-1089,2026-02-23,Consulta,Alta,27,WebForm,20.25
+TK-1090,2026-01-19,Configuración,Alta,78,API,58.5
+TK-1091,2026-01-14,Configuración,Baja,65,WebForm,32.5
+TK-1092,2026-01-01,Consulta,Baja,52,API,26.0
+TK-1093,2026-01-21,Feature Request,Baja,103,Email,51.5
+TK-1094,2026-01-29,Feature Request,Baja,435,WebForm,217.5
+TK-1095,2026-02-28,Configuración,Media,78,Email,46.8
+TK-1096,2026-02-26,Configuración,Media,10,WebForm,6.0
+TK-1097,2026-01-22,Feature Request,Baja,204,API,102.0
+TK-1098,2026-01-05,Feature Request,Baja,240,Email,120.0
+TK-1099,2026-01-10,Bug,Crítica,327,Email,327.0
+TK-1100,2026-02-28,Feature Request,Media,250,API,150.0
+TK-1101,2026-01-29,Bug,Media,202,API,121.2
+TK-1102,2026-02-15,Configuración,Baja,42,Email,21.0
+TK-1103,2026-01-24,Feature Request,Crítica,76,Email,76.0
+TK-1104,2026-01-14,Configuración,Alta,87,API,65.25
+TK-1105,2026-02-11,Configuración,Crítica,75,WebForm,75.0
+TK-1106,2026-01-27,Feature Request,Media,337,Email,202.2
+TK-1107,2026-01-01,Configuración,Crítica,43,API,43.0
+TK-1108,2026-01-04,Consulta,Crítica,13,Email,13.0
+TK-1109,2026-02-07,Consulta,Baja,53,API,26.5
+TK-1110,2026-01-23,Feature Request,Baja,382,API,191.0
+TK-1111,2026-02-05,Feature Request,Crítica,480,WebForm,480.0
+TK-1112,2026-02-22,Configuración,Alta,61,API,45.75
+TK-1113,2026-03-02,Consulta,Alta,41,API,30.75
+TK-1114,2026-01-21,Feature Request,Media,385,Email,231.0
+TK-1115,2026-01-21,Feature Request,Baja,431,Email,215.5
+TK-1116,2026-01-07,Consulta,Media,41,Email,24.6
+TK-1117,2026-01-11,Feature Request,Alta,302,Email,226.5
+TK-1118,2026-01-27,Bug,Alta,201,API,150.75
+TK-1119,2026-02-17,Bug,Media,226,WebForm,135.6
+TK-1120,2026-01-20,Configuración,Crítica,12,WebForm,12.0
+TK-1121,2026-01-24,Bug,Media,320,API,192.0
+TK-1122,2026-02-02,Bug,Crítica,237,WebForm,237.0
+TK-1123,2026-02-15,Configuración,Baja,74,WebForm,37.0
+TK-1124,2026-01-19,Consulta,Alta,61,API,45.75
+TK-1125,2026-02-04,Feature Request,Media,374,WebForm,224.4
+TK-1126,2026-01-16,Feature Request,Crítica,419,API,419.0
+TK-1127,2026-01-07,Feature Request,Alta,232,API,174.0
+TK-1128,2026-01-25,Bug,Crítica,235,API,235.0
+TK-1129,2026-01-16,Consulta,Media,50,Email,30.0
+TK-1130,2026-02-08,Bug,Baja,336,Email,168.0
+TK-1131,2026-01-28,Consulta,Media,22,API,13.2
+TK-1132,2026-02-19,Configuración,Crítica,73,API,73.0
+TK-1133,2026-02-14,Consulta,Alta,70,WebForm,52.5
+TK-1134,2026-01-16,Feature Request,Alta,303,API,227.25
+TK-1135,2026-02-21,Consulta,Baja,36,Email,18.0
+TK-1136,2026-01-16,Feature Request,Alta,359,API,269.25
+TK-1137,2026-01-18,Configuración,Crítica,66,API,66.0
+TK-1138,2026-02-25,Consulta,Media,22,WebForm,13.2
+TK-1139,2026-01-22,Consulta,Alta,61,WebForm,45.75
+TK-1140,2026-01-08,Feature Request,Alta,88,Email,66.0
+TK-1141,2026-02-27,Feature Request,Alta,119,Email,89.25
+TK-1142,2026-01-16,Feature Request,Crítica,454,WebForm,454.0
+TK-1143,2026-02-20,Consulta,Crítica,42,API,42.0
+TK-1144,2026-02-04,Bug,Baja,373,API,186.5
+TK-1145,2026-01-11,Consulta,Media,89,API,53.4
+TK-1146,2026-01-02,Consulta,Media,65,API,39.0
+TK-1147,2026-02-11,Consulta,Crítica,33,WebForm,33.0
+TK-1148,2026-03-01,Consulta,Crítica,25,Email,25.0
+TK-1149,2026-02-20,Bug,Alta,223,Email,167.25
+TK-1150,2026-02-26,Bug,Alta,87,Email,65.25
+TK-1151,2026-02-21,Feature Request,Baja,201,API,100.5
+TK-1152,2026-02-18,Feature Request,Baja,231,API,115.5
+TK-1153,2026-02-08,Configuración,Media,70,WebForm,42.0
+TK-1154,2026-02-25,Configuración,Baja,18,WebForm,9.0
+TK-1155,2026-02-28,Feature Request,Baja,131,Email,65.5
+TK-1156,2026-02-26,Bug,Crítica,198,Email,198.0
+TK-1157,2026-02-04,Feature Request,Baja,97,Email,48.5
+TK-1158,2026-01-15,Feature Request,Media,123,Email,73.8
+TK-1159,2026-01-11,Feature Request,Crítica,224,WebForm,224.0
+TK-1160,2026-02-08,Configuración,Baja,82,API,41.0
+TK-1161,2026-02-06,Configuración,Media,30,WebForm,18.0
+TK-1162,2026-01-27,Bug,Baja,166,WebForm,83.0
+TK-1163,2026-01-26,Bug,Alta,122,WebForm,91.5
+TK-1164,2026-01-05,Bug,Crítica,339,API,339.0
+TK-1165,2026-01-25,Consulta,Baja,87,WebForm,43.5
+TK-1166,2026-01-03,Configuración,Crítica,76,API,76.0
+TK-1167,2026-02-02,Feature Request,Baja,159,API,79.5
+TK-1168,2026-01-10,Feature Request,Alta,269,Email,201.75
+TK-1169,2026-02-20,Feature Request,Baja,84,WebForm,42.0
+TK-1170,2026-02-24,Feature Request,Alta,184,WebForm,138.0
+TK-1171,2026-01-02,Bug,Alta,192,API,144.0
+TK-1172,2026-01-12,Configuración,Crítica,15,API,15.0
+TK-1173,2026-01-13,Bug,Media,66,WebForm,39.6
+TK-1174,2026-02-02,Configuración,Alta,31,WebForm,23.25
+TK-1175,2026-02-14,Bug,Media,178,WebForm,106.8
+TK-1176,2026-02-28,Consulta,Crítica,88,WebForm,88.0
+TK-1177,2026-01-04,Configuración,Crítica,12,API,12.0
+TK-1178,2026-02-24,Consulta,Media,20,API,12.0
+TK-1179,2026-01-13,Consulta,Baja,10,WebForm,5.0
+TK-1180,2026-02-28,Configuración,Crítica,27,Email,27.0
+TK-1181,2026-02-24,Feature Request,Crítica,311,API,311.0
+TK-1182,2026-02-25,Configuración,Alta,29,Email,21.75
+TK-1183,2026-02-26,Feature Request,Crítica,452,WebForm,452.0
+TK-1184,2026-01-19,Consulta,Baja,90,Email,45.0
+TK-1185,2026-01-22,Consulta,Crítica,58,WebForm,58.0
+TK-1186,2026-02-22,Feature Request,Media,318,Email,190.8
+TK-1187,2026-02-15,Consulta,Alta,64,Email,48.0
+TK-1188,2026-01-29,Configuración,Crítica,68,API,68.0
+TK-1189,2026-02-11,Consulta,Baja,70,API,35.0
+TK-1190,2026-01-27,Consulta,Baja,14,Email,7.0
+TK-1191,2026-02-27,Bug,Crítica,194,API,194.0
+TK-1192,2026-02-21,Consulta,Crítica,31,WebForm,31.0
+TK-1193,2026-02-10,Bug,Media,157,API,94.2
+TK-1194,2026-01-25,Feature Request,Alta,118,API,88.5
+TK-1195,2026-02-15,Bug,Crítica,216,Email,216.0
+TK-1196,2026-01-08,Feature Request,Crítica,328,API,328.0
+TK-1197,2026-02-12,Consulta,Crítica,86,API,86.0
+TK-1198,2026-02-02,Consulta,Media,24,WebForm,14.4
+TK-1199,2026-01-09,Bug,Alta,120,Email,90.0
